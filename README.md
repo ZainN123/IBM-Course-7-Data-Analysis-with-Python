@@ -1,1 +1,1 @@
-# IBM-Course-7-Data-Analysis-wth-Python
+# IBM-Course-7-Data-Analysis-with-Python
